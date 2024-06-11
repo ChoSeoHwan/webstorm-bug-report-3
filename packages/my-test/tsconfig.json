@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "baseUrl": ".",
+    "outDir": "./dist",
+    "module": "ESNext",
+    "moduleResolution": "NodeNext"
+  },
+  "include": ["**/*.ts"]
+}

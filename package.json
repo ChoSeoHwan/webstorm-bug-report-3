@@ -1,0 +1,8 @@
+{
+  "name": "webstorm-bug-report-3",
+  "version": "1.0.0",
+  "workspaces": ["packages/*"],
+  "repository": "https://github.com/ChoSeoHwan/webstorm-bug-report-3.git",
+  "author": "'아이작_조서환' <wtae1216@afreecatv.com>",
+  "license": "MIT"
+}

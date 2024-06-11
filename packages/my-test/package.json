@@ -1,0 +1,8 @@
+{
+  "name": "@webstorm-bug-report-3/my-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "imports": {
+    "#src/*.js": "./src/*.ts"
+  }
+}
